@@ -1,0 +1,46 @@
+# Vendor / dependências
+vendor/
+
+# Config com credenciais (criar config.php a partir de config.example.php)
+config/config.php
+
+# Uploads e mídias do usuário
+public/medias/
+public/_medias/
+
+# Arquivos temporários de desenvolvimento
+public/tmp_*.php
+
+# Banco de dados local
+*.sqlite
+*.sq3
+*.db
+
+# SSH keys
+.ssh/
+
+# Setup/instalador (contém credenciais)
+setup/
+
+# Logs
+*.log
+logs/
+
+# Cache
+cache/
+var/
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Env
+.env
+.env.local
+.env.*.local
