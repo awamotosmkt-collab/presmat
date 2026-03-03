@@ -1,8 +1,9 @@
 # Vendor / dependências
 vendor/
 
-# Config com credenciais (criar config.php a partir de config.example.php)
+# Config com credenciais (criar a partir dos arquivos .example.php)
 config/config.php
+common/config.php
 
 # Uploads e mídias do usuário
 public/medias/
