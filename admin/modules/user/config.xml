@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module title="[USERS]" name="user" multi="0" library="0" dashboard="0" icon="user" ranking="0" home="0" main="0" validation="1" dates="1" release="0" index="3.8">
+	<!-- resizing
+	[0] 1 single image
+	[1] 1x big, 1x medium, 1x small -->
 	<medias max="0" resizing="1">
 		<big maxw="1920" maxh="1440"/>
 		<medium maxw="600" maxh="600"/>
